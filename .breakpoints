@@ -1,0 +1,20 @@
+{
+  "files": {
+    "CodeWriter.java": [
+      {
+        "id": "914ea64c-ccf9-48e9-b5ee-360026763315",
+        "line": 573,
+        "version": 3449,
+        "index": 12680
+      }
+    ],
+    "VMTranslator.java": [
+      {
+        "id": "bbee5564-9173-423c-bc05-3acee31069a3",
+        "line": 50,
+        "version": 835,
+        "index": 1350
+      }
+    ]
+  }
+}
